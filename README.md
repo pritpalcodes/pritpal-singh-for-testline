@@ -1,4 +1,4 @@
-# Peirpl Singh for TestLine
+# Pritpal Singh for TestLine
 
 This repository contains a machine learning model that enables chat with a PDF document. (I know that was not the original assignment, however it is the best I could have come up with, trust me I am learning)
 
